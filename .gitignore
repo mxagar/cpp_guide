@@ -36,5 +36,7 @@
 .DS_Store
 cmake
 c++
+gtest
 accelerated_computer_science_coursera
 design_patterns_notes
+build
