@@ -34,3 +34,7 @@
 # Additional
 .vscode
 .DS_Store
+cmake
+c++
+accelerated_computer_science_coursera
+design_patterns_notes
