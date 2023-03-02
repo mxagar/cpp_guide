@@ -37,6 +37,7 @@
 cmake
 c++
 gtest
+templates
 accelerated_computer_science_coursera
 design_patterns_notes
 build
